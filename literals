@@ -1,0 +1,22 @@
+public class literals {
+    public static void main(String[] args) {
+        byte age = 19;
+        int a = 20;
+        short b = 3000;
+        long c = 400000000000L;
+        char d = 'k';
+        float e = 5.5f;
+        double f = 5.56885;
+        boolean g = true ;
+        System.out.println(age);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
+        String h = "kishan" ;
+        System.out.println(h);
+    }
+}
